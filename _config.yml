@@ -1,0 +1,14 @@
+layout_spectrum: 0.35497161257080734
+typography_spectrum: 0.0776794112753123
+color:
+  brandStrength: 0.4379379793535918
+  lightness: 0.8496245751157403
+  saturation: 0.5775030981749296
+  rhythmicContrast: 0.5477383628021926
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+name: Parral
