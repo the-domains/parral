@@ -1,4 +1,3 @@
-layout_spectrum: 0.35497161257080734
 typography_spectrum: 0.0776794112753123
 color:
   brandStrength: 0.4379379793535918
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.35497161257080734
 name: Parral
 title: Experimentación lúdica
+description: La tenemos atada
